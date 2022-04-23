@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\BrickMediaPlayer\bin\Debug\BrickMediaPlayer.exe
+C:\Users\user\source\repos\BrickMediaPlayer\bin\Debug\BrickMediaPlayer.pdb
+C:\Users\user\source\repos\BrickMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\BrickMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.Form1.resources
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.Properties.Resources.resources
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.exe
+C:\Users\user\source\repos\BrickMediaPlayer\obj\Debug\BrickMediaPlayer.pdb
