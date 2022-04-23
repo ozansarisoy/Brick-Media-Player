@@ -6,7 +6,11 @@ It is a mini media player program that runs on the windows operating system.
 
 
 
-https://user-images.githubusercontent.com/50779398/164914380-11ba18ae-a3b7-421c-8d03-2efd8ad9fdb9.mp4
+
+
+https://user-images.githubusercontent.com/50779398/164914715-8e2e4325-fc85-4427-9ba9-c67ce6c87449.mp4
+
+
 
 
 
